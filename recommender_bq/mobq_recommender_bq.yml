@@ -1,0 +1,9 @@
+title: indgdb_data_mobq_bq_recommender
+description: ROLE TO CREATE, LIST AND DELETE RESERVATIONS AND ASSIGNMENTS
+stage: GA
+includedPermissions:
+- bigquery.jobs.create
+- bigquery.tables.create
+- bigquery.tables.update
+- bigquery.tables.get
+- bigquery.tables.updateData

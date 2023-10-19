@@ -1,0 +1,7 @@
+{
+  "secret_path": "projects/837201884989/secrets/p-indgdb-mobq-listado-proyectos/versions/latest",
+  "project_id": "p-indgdb-ido-5oi9",
+  "dataset_id": "master_mobq",
+  "table_id": "mobq_partitioncluster_recommendations",
+  "table_id_hist": "mobq_partitioncluster_recommendations_hist"
+}
